@@ -12,7 +12,7 @@ Many users in corporate environments lack the technical skills required to query
 
 The models are trained on the WikiSQL dataset, which contains over 70,000 hand-annotated examples of questions and SQL queries covering a wide range of topics and database schemas.
 
-### Methodology:
+## Methodology:
 
 The system implements a pipeline that includes:
 
@@ -27,7 +27,7 @@ The system implements a pipeline that includes:
 * Google Gemini LLM: Implemented to enhance the accuracy and complexity of query handling. This LLM model, accessed via the Google Gemini API, demonstrated superior performance, particularly in complex query scenarios 
   involving aggregation, union, and join operations.
   
-### Results:
+## Results:
 
 The project achieved notable success in translating natural language to SQL:
 
