@@ -34,7 +34,7 @@ The project achieved notable success in translating natural language to SQL:
 * T5 Model: Achieved an accuracy of 58.06%.
 * LLM Model: Outperformed the T5 with an accuracy of 64.19%, especially effective in complex query scenarios.
 
-### Conclusion:
+## Conclusion:
 
 In conclusion, this project successfully demonstrates the significant potential of using advanced neural network architectures, specifically T5 transformers and Google's Gemini LLM, for the task of converting natural language queries into SQL statements. The application of these technologies has proven to not only enhance the accessibility of databases to non-technical users but also improve the efficiency and accuracy of query generation.
 
